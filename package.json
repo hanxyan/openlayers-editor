@@ -40,7 +40,7 @@
     "jsdoc-export-default-interop": "0.3.1",
     "jsts": "2.3.0",
     "neutrino": "8.3.0",
-    "ol": "6.3.1",
+    "ol": "6.4.3",
     "webpack": "4.43.0"
   },
   "peerDependencies": {
